@@ -70,7 +70,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <div class="logo_products">
     <div class="container">
         <div class="w3ls_logo_products_left">
-            <h1><a href="index.html"><span>Grocery</span> Store</a></h1>
+            <h1><a href="<?= \yii\helpers\Url::home() ?>"><span>Grocery</span> Store</a></h1>
         </div>
         <div class="w3ls_logo_products_left1">
             <ul class="special_items">
